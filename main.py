@@ -1,5 +1,10 @@
+import numpy as np
+
 def main():
-    print("Hello from thermalbar!")
+    x = np.linspace(0,100,100)
+
+    print(x.T@x)
+    
 
 
 if __name__ == "__main__":
