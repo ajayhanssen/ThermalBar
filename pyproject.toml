@@ -1,7 +1,7 @@
 [project]
 name = "thermalbar"
 version = "0.1.0"
-description = "Add your description here"
+description = "Project Simulation and Optimisation"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
